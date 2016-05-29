@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dr. E]]></title>
         <description><![CDATA[Dr. E]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://drernesto.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 17:58:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 18:11:11 GMT</lastBuildDate>
+        <atom:link href="http://drernesto.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello World!</p>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c33067d-ada0-4571-bdae-ae3cfad287f2.png">]]></description>
+            <link>http://drernesto.com/hello-world/index.html</link>
             <guid isPermaLink="false">a17d61e2-ca0f-42cd-bdb5-861ae89dc7b8</guid>
-            <pubDate>Sun, 29 May 2016 17:58:40 GMT</pubDate>
+            <pubDate>Sun, 29 May 2016 18:10:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
